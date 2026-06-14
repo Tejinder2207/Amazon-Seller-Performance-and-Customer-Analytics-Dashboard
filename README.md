@@ -277,5 +277,6 @@ Average Order Value = DIVIDE([Total Revenue],[Total Orders])
 # Screenshots
 https://github.com/Tejinder2207/Amazon-Seller-Performance-and-Customer-Analytics-Dashboard/blob/main/Executive%20Dashboard.png
 https://github.com/Tejinder2207/Amazon-Seller-Performance-and-Customer-Analytics-Dashboard/blob/main/Product%20Analytics.png
+https://github.com/Tejinder2207/Amazon-Seller-Performance-and-Customer-Analytics-Dashboard/blob/main/Customer%20Analytics.png
 
 
